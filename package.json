@@ -1,0 +1,16 @@
+{
+  "name": "temp-converter",
+  "version": "1.0.0",
+  "description": "temperature converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*"
+  },
+  "author": "Nik m",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "expect": "^27.4.2",
+    "mocha": "^9.1.3"
+  }
+}
